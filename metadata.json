@@ -1,0 +1,6 @@
+{
+  "name": "Infinite Car Racer",
+  "description": "An infinite runner game where you control a car to dodge oncoming traffic. The game gets progressively faster. See if you can get a high score!",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
